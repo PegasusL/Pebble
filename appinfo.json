@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "christopher.shirley@icloud.com",
+    "longName": "ClockPass",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/DS-DIGII.TTF",
+                "name": "DIGITALWATCH_42",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "ClockPass",
+    "uuid": "6435f37c-dd41-4032-9be8-34d23c90cf6b",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
