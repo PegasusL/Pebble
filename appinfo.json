@@ -9,6 +9,11 @@
     "resources": {
         "media": [
             {
+                "file": "images/compassimage.png",
+                "name": "COMPASS_ROSE",
+                "type": "png"
+            },
+            {
                 "file": "fonts/DS-DIGII.TTF",
                 "name": "DIGITALWATCH_42",
                 "type": "font"
